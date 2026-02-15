@@ -1,68 +1,49 @@
-# hey, i'm jeet👋  
+# Hi, i am Jeet 😃👋
 
-i build things.
+I code.
 
-sometimes they work.  
-sometimes they teach me humility.  
-both outcomes are acceptable.
+## Stuff I have done
 
-i’m an engineer who enjoys:
-- making hardware talk to software  
-- making software behave  
-- and occasionally making distributed systems regret existing  
 
----
+## The kind of engineer I am
 
-## 🧠 what i actually do
+I like to:
+1. Prototype hard.
+2. Test hard.
+3. Deploy a hard-core mvp for clients.
+4. Write some hard...looking documentation.
 
-i’ve:
-- tracked rockets with software defined radios (yes, actual rockets)  
-- made raspberry pis do synchronized things like they’re in a boy band  
-- trained reinforcement learning agents that sometimes drive better than i do  
-- built data pipelines that politely move sensor data around  
-- designed control systems that try very hard not to explode  
+I’m not the Usain Bolt of software development, I use AI to help me ship faster.
 
-i like problems that look slightly unreasonable at first glance.
+What I am is an engineer who enjoys planning, designing, and scaling products. I’m still new to the industry and I have plenty to learn, which I consider one of my strongest attributes.
+
+I value practical learning and applying new techniques, skills, and ideas that can have a measurable and positive impact for a product’s users.
 
 ---
 
-## ⚙️ my engineering vibe
+## working on...
 
-- calm > chaotic  
-- reliable > clever  
-- depth > noise  
-- mastery > hype  
-- “let’s understand this properly” > “ship it and pray”  
-
-i’m not trying to be the 10x engineer.
-
-i’m trying to be the engineer you trust at 2am when production is on fire.
-
----
-
-## 🌱 currently evolving into
-
-- someone with better system intuition  
-- someone who understands product, not just code  
-- someone who doesn’t overthink pull request comments  
-- a more dangerous embedded engineer  
+- embedded engineering...it's a fun hobby
+- being more product focused
+- 
 
 ---
 
 ## 🏋️ outside of code
 
-- tutoring maths & physics  
-- lifting heavy things  
-- thinking about long-term financial freedom  
-- trying to become 1% better without becoming 100% insufferable  
-
+- building rockets
+- working with my hands
+- dancing
+- karaoke
+- pickleball
+- tennis
+  
 ---
 
 if you like:
 - embedded systems  
 - distributed systems  
-- sustainable tech  
-- calm ambition  
-- or slightly over-engineered side projects  
+- spiderman  
+- programming
 
-we’ll probably get along.
+we will probably like each other :)
