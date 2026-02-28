@@ -25,9 +25,7 @@ I like to:
 
 I’m not the Usain Bolt of software development, that's why I use AI to help me ship faster.
 
-What I am is an engineer who enjoys planning, designing, and scaling products.
-
-I value practical learning and applying new techniques, skills, and ideas that can have a measurable and positive impact for a product’s users.
+I am always learning new things and trying to building something cool.
 
 ## 🏋️ outside of code
 
