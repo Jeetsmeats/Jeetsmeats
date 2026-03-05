@@ -12,28 +12,9 @@ if you like:
 - spiderman  
 - programming
 - linus
+- brainrot
 
 we will probably like each other :)
 
-## The kind of engineer I am
-
-I like to:
-1. Prototype hard.
-2. Test hard.
-3. Deploy a hard-core mvp.
-4. Write some hard...looking documentation.
-
-I’m not the Usain Bolt of software development, that's why I use AI to help me ship faster.
-
-I am always learning new things and trying to building something cool.
-
-## 🏋️ outside of code
-
-- working with my hands
-- dancing
-- karaoke
-- pickleball
-- tennis
-  
 ---
 
