@@ -5,16 +5,16 @@
 I code.
 
 ## Little bit about me
-I am a geek.  
 
-if you like:
+I like
 - electronics
 - spiderman  
 - programming
 - linus
-- brainrot
+- github dark theme
+- vim (still getting used to it)
 
-we will probably like each other :)
+If you like any of these things we will probably like each other...although if you don't like programming by now why are you on github?
 
 ---
 
