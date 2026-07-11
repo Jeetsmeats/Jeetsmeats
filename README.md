@@ -6,13 +6,10 @@ I code.
 
 I like
 - electronics
-- spiderman  
+- spiderman
 - programming
-- linus
 - tokyo night theme
-- vim (still getting used to it)
-
-If you like any of these things we will probably like each other...although if you don't like programming by now why are you on github?
-
+- vim key-bindings
+  
 ---
 
