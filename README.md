@@ -8,8 +8,10 @@ I like
 - electronics
 - spiderman
 - programming
-- tokyo night theme
+- zed
+- claude inspired dark theme
 - vim key-bindings
+- the start of the month (when my tokens are reset)
   
 ---
 
