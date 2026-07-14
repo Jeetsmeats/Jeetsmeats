@@ -26,6 +26,5 @@ Obsessed with
 - vim keybindings
 - opus 4.8
 - learning
-
----
+- 80% layout
 
