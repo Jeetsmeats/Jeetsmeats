@@ -10,7 +10,7 @@ Mostly things that involve hardware, software, and a bash terminal
 
 I like
 - electronics
-- spider-Man
+- spider-man
 - zed
 - claude-inspired dark themes
 - vim keybindings
